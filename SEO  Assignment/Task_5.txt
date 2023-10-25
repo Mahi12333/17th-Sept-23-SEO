@@ -1,0 +1,3 @@
+5)Define the Favicone and give an illustrative example.
+Answer:-Favicon is a small icon or image that represents a website or web page. It is displayed in the browser's address bar, tabs, bookmarks, and sometimes in the browser's history to provide visual identification for a website. Favicon stands for "favorite icon."
+A favicon is typically a square image with dimensions of 16x16, 32x32, or 48x48 pixels and is saved in various formats, such as .ico, .png, or .gif. Favicon images can be simple logos, symbols, or other graphic representations of the website or brand.
