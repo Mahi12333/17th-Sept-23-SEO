@@ -1,0 +1,6 @@
+2)Create an Html document with appropiate <title> and <meta> tages for seo optimization. Ensure the title is descriptive and the meta describtion in concise.
+
+Answer:-The <title> tag provides a descriptive and SEO-optimized title for the web page. It mentions the business name, location, and what it offers ("Best Coffee Shop in Seattle | Local Coffee Roastery").
+The <meta> tag with the name="description" attribute contains a concise and informative description of the page's content. It briefly introduces the coffee shop's offerings, ambiance, and encourages visitors to come ("Discover the best coffee shop in Seattle at Local Coffee Roastery. 
+We offer freshly roasted coffee beans, cozy ambiance, and a wide range of coffee beverages. Visit us today for your daily coffee fix.").
+
